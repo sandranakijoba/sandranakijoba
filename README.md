@@ -21,10 +21,10 @@ I am a dedicated Software Engineer with a passion for developing cutting-edge so
 - Platforms: AWS, Azure, Google Cloud
 
 ## Education
-Bachelor's Degree in Computer Science from XYZ University.
+Bachelor's Degree in Computer Science from Makerere University.
 
 ## Contact
-You can reach me at: [email@example.com] 
+You can reach me at:  sandynakijoba@gmail.com
 
 ## Current Date
 This profile was last updated on 2026-02-19 07:47:28 UTC.
